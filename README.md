@@ -1,4 +1,4 @@
-# 🏄‍♂️ Baglanov Alikhan
+# 👨‍💻 Baglanov Alikhan
 
 **`NIS Student`**
 
