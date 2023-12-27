@@ -2,7 +2,7 @@
 
 **`NIS Student`**
 
-I'm currently studying machine learning and golang.
+I'm currently studying ML/Dl, c# and golang
 
 
 
