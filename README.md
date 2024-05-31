@@ -1,6 +1,6 @@
-# 👨‍💻 Baglanov Alikhan
+# ☄️ Baglanov Alikhan
 
-**`NIS Student`**
+**`🌱 NIS Student`**
 
 I'm currently studying ML/Dl and golang
 
