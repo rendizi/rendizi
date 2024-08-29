@@ -34,11 +34,3 @@ I'm currently studying ML/Dl and golang
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 
 <br />
-
-#
-
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendizi&show_icons=true&theme=gruvbox)
-
