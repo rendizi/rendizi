@@ -2,8 +2,8 @@
 
 **`🌱 NIS Student`**
 
-I'm currently studying ML/Dl and golang
 
+Write it. Run it. Fix it. Push it.
 
 
 ---
