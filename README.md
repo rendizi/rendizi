@@ -1,6 +1,4 @@
-# ☄️ Baglanov Alikhan
-
-**`🌱 NIS Student`**
+# ☄️ Baglanov
 
 
 Write it. Run it. Fix it. Push it.
